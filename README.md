@@ -1,6 +1,6 @@
 **Purpose**
 
-This project consisted in determining tthe different types of iris flower, threw a predictive model based on support vector machines
+This project consisted in determining the different types of iris flower, threw a predictive model based on support vector machines
 
 **Technologies:**
 
